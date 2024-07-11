@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Delphi and PL/SQL**
 
-- 💬 Ask me about **TestComplete, Selenium, WebAutomation**
+- 💬 Ask me about **TestComplete, Selenium, TestAutomation**
 
 - 📫 How to reach me **joaoguilherme.ferreira14@gmail.com**
 
