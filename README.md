@@ -1,23 +1,62 @@
-<h1 align="center">Hi 👋, I'm João A.K.A talco</h1>
-<h3 align="center">A passionate quality engineer from Brasil</h3>
+<h2 align="center">Hi 👋! My name is João and I'm a SDET, from Brazil!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otalco&label=Profile%20views&color=0e75b6&style=flat" alt="otalco" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/osamabinnargas" target="blank"><img src="https://img.shields.io/twitter/follow/osamabinnargas?logo=twitter&style=for-the-badge" alt="osamabinnargas" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otalco&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=otalco&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otalco&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Delphi and PL/SQL**
+###
 
-- 💬 Ask me about **TestComplete, Selenium, TestAutomation**
+<img align="right" height="150" src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv"  />
 
-- 📫 How to reach me **joaoguilherme.ferreira14@gmail.com**
+###
 
-- ⚡ Fun fact **I'm also a Private Pilot**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osamabinnargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamabinnargas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/checchinatomf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="checchinatomf" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="joaoguilherme.ferreira14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/checchinatomf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/otalco/otalco/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/otalco/count.svg?"  />
+</div>
+
+###
