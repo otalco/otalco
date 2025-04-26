@@ -60,5 +60,10 @@
 
 ###
 
+<div align="center">
+  <a href="https://valid.x86.fr/z16wmp" target="_blank">
+    <img src="https://valid.x86.fr/cache/banner/z16wmp-6.png" alt="Banner">
+  </a>
+</div>
 
 >Fã incondicional de Rogério Skylab
