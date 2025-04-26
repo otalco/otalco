@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <a href="https://valid.x86.fr/z16wmp" target="_blank">
-    <img src="https://valid.x86.fr/cache/banner/z16wmp-6.png" alt="Banner">
+  <a href="https://valid.x86.fr/gxw8f8" target="_blank">
+    <img src="https://valid.x86.fr/cache/banner/gxw8f8-4.png" alt="Banner">
   </a>
 </div>
 
