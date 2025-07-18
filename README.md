@@ -61,6 +61,6 @@
   </a>
 </div>
 
->Fã incondicional de Rogério Skylab
+>O caminho do homem justo é cercado por todos os lados pelas iniquidades dos egoístas e pela tirania dos homens maus. Bendito é aquele que, em nome da caridade e da boa vontade, guia os fracos pelo vale das trevas. Pois ele é verdadeiramente o guardião de seu irmão e o encontrador de crianças perdidas. E eu cairei sobre ti com grande vingança e fúria aqueles que tentam envenenar e destruir meus irmãos. E você saberá que eu sou o Senhor quando eu lançar minha vingança sobre você.
 
 See you, Space Cowboy... 🚀
