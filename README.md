@@ -97,6 +97,16 @@
 
 ###
 
+<h2 align="left">OC Stats</h2>
+
+<div align="center">
+  <a href="https://valid.x86.fr/gxw8f8" target="_blank">
+    <img src="https://valid.x86.fr/cache/banner/gxw8f8-6.png" height="150" alt="CPU-Z Validation" />
+  </a>
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=96&fontColor=#5a2b8a&fontAlign=50&fontAlignY=50&stroke=#36989c&strokeWidth=33&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
